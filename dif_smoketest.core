@@ -1,0 +1,30 @@
+CAPI=2:
+
+name: "bci:sw:dif_smoketest:1.0"
+description: "dif smoketest"
+
+filesets:
+  files_dif_smoketest:
+    depend:
+      - bci:sw:base:1.0
+      - bci:sw:dif:1.0
+      - bci:sw:top_athos_sw:1.0
+    files:
+      - dif_aon_timer_smoketest.c
+      - dif_gpio_smoketest.c
+      - dif_plic_smoketest.c
+      - dif_plic_smoketest_gpio.c
+      - dif_plic_smoketest_uart.c
+      - dif_rstmgr_smoketest.c
+      - dif_rv_timer_smoketest_3sec.c
+      - dif_rv_timer_smoketest_3us.c
+      - dif_rv_timer_smoketest.c
+      - dif_uart_helloworld.c
+      - dif_uart_smoketest.c
+      - dif_uart_bci_test.c
+    file_type: swCSource
+
+targets:
+  default: 
+    filesets:
+      - files_dif_smoketest
