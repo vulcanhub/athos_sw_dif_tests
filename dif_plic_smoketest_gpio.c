@@ -2,20 +2,6 @@
 // Licensed under the Apache License, Version 2.0, see LICENSE for details.
 // SPDX-License-Identifier: Apache-2.0
 
-// #include "dif/dif_plic.h"
-// 
-// #include "base/mmio.h"
-// #include "dif/dif_gpio.h"
-// #include "handler/handler.h"
-// #include "irq/irq.h"
-// #include "runtime/hart.h"
-// #include "runtime/log.h"
-// #include "testing/check.h"
-// #include "testing/test_main.h"
-// #include "testing/test_status.h"
-// 
-// #include "top_athos_sw/sw/autogen/top_athos.h"  // Generated.
-
 #include "dif/dif_plic.h"
 
 #include "base/mmio.h"
@@ -28,7 +14,7 @@
 #include "dif/test_main.h"
 #include "dif/test_status.h"
 
-#include "top_athos_sw/sw/autogen/top_athos.h"  // Generated.
+#include "top/sw/autogen/top_athos.h"  // Generated.
 
 static const uint32_t kPlicTarget = kTopAthosPlicTargetIbex0;
 

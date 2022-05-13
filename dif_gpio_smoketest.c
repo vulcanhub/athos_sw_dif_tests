@@ -2,16 +2,6 @@
 // Licensed under the Apache License, Version 2.0, see LICENSE for details.
 // SPDX-License-Identifier: Apache-2.0
 
-// #include "dif/dif_gpio.h"
-// 
-// #include "base/memory.h"
-// #include "base/mmio.h"
-// #include "runtime/log.h"
-// #include "testing/check.h"
-// #include "testing/test_main.h"
-// 
-// #include "top_athos_sw/sw/autogen/top_athos.h"  // Generated.
-
 #include "dif/dif_gpio.h"
 
 #include "base/memory.h"
@@ -20,7 +10,7 @@
 #include "dif/check.h"
 #include "dif/test_main.h"
 
-#include "top_athos_sw/sw/autogen/top_athos.h"  // Generated.
+#include "top/sw/autogen/top_athos.h"  // Generated.
 
 static dif_gpio_t gpio;
 const test_config_t kTestConfig;

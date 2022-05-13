@@ -2,18 +2,6 @@
 // Licensed under the Apache License, Version 2.0, see LICENSE for details.
 // SPDX-License-Identifier: Apache-2.0
 
-// #include "dif/dif_uart.h"
-// 
-// #include "runtime/log.h"
-// 
-// #include "arch/device.h"
-// #include "base/mmio.h"
-// #include "runtime/hart.h"
-// #include "testing/check.h"
-// #include "testing/test_main.h"
-// 
-// #include "top_athos_sw/sw/autogen/top_athos.h"  // Generated.
-
 #include "dif/dif_uart.h"
 
 #include "dif/log.h"
@@ -24,7 +12,7 @@
 #include "dif/check.h"
 #include "dif/test_main.h"
 
-#include "top_athos_sw/sw/autogen/top_athos.h"  // Generated.
+#include "top/sw/autogen/top_athos.h"  // Generated.
 
 static const uint8_t kSendData[] = "Helloworld!";
 

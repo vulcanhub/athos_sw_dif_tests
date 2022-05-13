@@ -2,17 +2,6 @@
 // Licensed under the Apache License, Version 2.0, see LICENSE for details.
 // SPDX-License-Identifier: Apache-2.0
 
-// #include "dif/dif_rv_timer.h"
-// 
-// #include "handler/handler.h"
-// #include "irq/irq.h"
-// #include "runtime/hart.h"
-// #include "runtime/ibex.h"
-// #include "runtime/log.h"
-// #include "testing/check.h"
-// #include "testing/test_main.h"
-// #include "top_athos_sw/sw/autogen/top_athos.h"
-
 #include "dif/dif_rv_timer.h"
 
 #include "dif/handler.h"
@@ -22,7 +11,7 @@
 #include "dif/log.h"
 #include "dif/check.h"
 #include "dif/test_main.h"
-#include "top_athos_sw/sw/autogen/top_athos.h"
+#include "top/sw/autogen/top_athos.h"
 
 static dif_rv_timer_t timer;
 
