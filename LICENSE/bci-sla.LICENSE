@@ -1,0 +1,83 @@
+﻿SOFTWARE LICENSE AGREEMENT
+    
+This Software License Agreement (this “Agreement”) is made for Belmont Computing, Inc., a California corporation with a principal place of business at 9 W 41st Ave., San Mateo, California 94403 (“Belmont Computing”).  Licensee and Belmont Computing may also be referred to individually as a “Party” or collectively as the “Parties”.
+
+
+BACKGROUND
+ 
+WHEREAS, Belmont Computing has developed and owns a design verification life-cycle management platform including software programs, modules and libraries named VeriForge©;
+WHEREAS, Licensee desires to utilize Belmont Computing’s VeriForge platform in accordance with the terms herein;
+NOW, THEREFORE, in furtherance of the foregoing and in consideration of the mutual covenants contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Belmont Computing and Licensee hereby agree as follows:
+
+
+1. DEFINITIONS. 
+  
+(a) “Confidential Information” means any and all trade secrets, proprietary or confidential information as such terms are most broadly defined under common law, statute and other applicable law, if such information is designated as "Confidential," "Proprietary" or similar legend (i) by stamp or legend if communicated in writing or other tangible form or (ii) orally at the time of disclosure with a written confirmation within thirty days describing the Confidential Information communicated orally.  All restrictions as to use and disclosure shall apply during such thirty-day period.  Confidential Information will not include information that the receiving Party can prove: (a) information which was already in the receiving Party’s possession as a matter of record prior to the Effective Date; (b) information that is independently developed by the receiving Party as a matter of record; (c) information that is obtained from a third party who, insofar as is known to the receiving Party, is not prohibited from transmitting the information to the receiving Party by a contractual, legal or fiduciary obligation to the disclosing Party; and (d) information which is or which becomes generally available to the public other than as a result of disclosure by the receiving Party. The Parties recognize and acknowledge that the Software is the Confidential Information of Belmont Computing.
+ 
+(b) “Derivative Works” means a revision, modification, translation, abridgment, condensation or expansion of the Software or a component thereof or any form in which the Software or a component thereof may be recast, transferred or adapted, which, if prepared without Belmont Computing’s consent, would be a copyright infringement.
+
+(c) “Designated Site” means the specific address of Licensee.
+
+(d) “Documentation” means the datasheet(s) or other documentation or explanatory material related to the Software which Licensee may receive from Belmont Computing in an electronic or printed format.
+
+(e) “Intellectual Property Rights” means all intellectual property rights protected by law throughout the world, including all copyrights (including the exclusive right to reproduce, distribute copies of, display, and perform the copyrighted work and to prepare derivative works), copyright registrations and applications, trademark rights (including trade dress), trademark registrations and applications, patent rights (including the right to apply therefor), patent applications therefor (including the right to claim priority under applicable international conventions) and all patents issuing thereon, and inventions, whether or not patentable, together with all utility and design, know-how, specifications, trade names, mask-work rights, trade secrets, moral rights, author's rights, algorithms, rights in packaging, goodwill, and other intellectual property rights, as may exist now and hereafter come into existence, and all renewals and extensions thereof, of whether any of such rights arise under the laws of the United States or of any other state, country, or jurisdiction.
+
+(f) "Install" means placing the Software on a computer's hard disk, or other secondary storage device.
+
+(g) “Software” means Belmont Computing’s VeriForge computer programs, libraries, tools and  Documentation as more fully described in Schedule A attached to this Agreement.
+
+(h) "Use" means (i) executing or loading the Software into computer RAM or other primary memory at the Designated Site; (ii) loading data into or displaying, viewing or extracting output results from or otherwise operating any portion of the Software at the Designated Site solely for the purpose of Licensee’s internal design and manufacture of electronic circuits and systems; and (iii) copying, all or any portion thereof, the Software for archival or emergency restart purposes. 
+
+2. GRANT OF RIGHTS. Subject to payment of license fees, Belmont Computing hereby grants to Licensee a non-exclusive, personal, non-transferable, perpetual (unless terminated pursuant to section 5, Termination) license to:  (a) Install and Use the Software on one single user computer at the Designated Site; and (b) internally use the Documentation at the Designated Site for Licensee’s Use of the Software.  Licensee shall not: (a) attempt to, nor cause or allow any third party to attempt to, reverse engineer,  reverse compile or disassemble the Software, in whole or in part, nor use any mechanical, electronic or other methods to trace, decompile or identify the source code of the Software, in whole or in part; (b) use, modify, copy, transfer, distribute, sublicense or use for timesharing or service bureau purposes the Software or Documentation except as expressly authorized under this Agreement, and that it will not authorize any third party to engage in any such activities; (c) use the Software for the benefit of third parties or allow third parties to use the Software; (d) disclose the results of any benchmarking of the Software (whether or not obtained Belmont Computing’s assistance) to third parties; or (e) make Derivative Works of the Software.
+  
+3. LICENSE TERM. This License is effective when executed by both Parties and the license granted to the Software remains in force until Licensee stops using the Software or until Belmont Computing terminates this Agreement because of Licensee's failure to comply with any of its terms and conditions. 
+  
+4. LICENSE FEE. Licensee agrees to pay Belmont Computing the license fees as described in the Invoice at the time of purchase.
+
+5. TERMINATION. Belmont Computing shall have the right to immediately terminate this Agreement if Licensee fails to perform any obligation required of Licensee under this Agreement or if Licensee becomes bankrupt or insolvent.
+  
+6. RETURN OR DESTRUCTION OF SOFTWARE UPON TERMINATION. Upon termination of this Agreement, Licensee shall cease Use of the Software and Documentation and return to Belmont Computing or destroy the original and all copies of the Software including partial copies and modifications. Belmont Computing shall have a reasonable opportunity to conduct an inspection of Licensee's place of business to assure compliance with this provision. 
+  
+7. TITLE TO SOFTWARE. Belmont Computing retains title to and ownership of all Intellectual Property Rights in the Software and all enhancements, modifications, updates and Derivative Works of the Software. Any recommendations, ideas, contributions, corrections, enhancements or information submitted by Licensee to Belmont Computing that are incorporated or used in the Software or Documentation shall be the sole property of Belmont Computing.  Licensee shall not remove or alter any of Belmont Computing’s restrictive legends appearing on or in the Software or Documentation.
+  
+8. WARRANTY LIMITATIONS. BELMONT COMPUTING WARRANTS FOR A PERIOD OF TWELVE (12) MONTHS FROM THE EFFECTIVE DATE THAT THE SOFTWARE WILL FUNCTION IN SUBSTANTIAL ACCORDANCE WITH THE DESCRIPTION AND SPECIFICATIONS SET FORTH IN ATTACHED SCHEDULE A. THE WARRANTY GRANTED HEREIN IS IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT AND ACCURACY, OR ARISING FROM A COURSE OF DEALING OR USAGE OF TRADE.  BELMONT COMPUTING DOES NOT WARRANT THAT THE SOFTWARE IS ERROR FREE, THAT LICENSEE WILL BE ABLE TO OPERATE THE SOFTWARE WITHOUT PROBLEMS OR INTERRUPTIONS OR THAT ANY DEFECTS IN THE SOFTWARE WILL BE CORRECTED.  IN NO EVENT SHALL BELMONT COMPUTING BE LIABLE TO LICENSEE FOR ANY DAMAGES RESULTING FROM OR RELATED TO THE USE OR PERFORMANCE OF THE SOFTWARE.
+  
+9. REMEDY LIMITATIONS. Belmont Computing’s entire liability and Licensee’s sole and exclusive remedy for breach of the foregoing warranty shall be for Belmont Computing to repair any material defects or replacement of the Software.
+  
+10. DAMAGE LIMITATIONS. NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL OR INCIDENTAL DAMAGES, INCLUDING LOSS OF PROFITS, AND BELMONT COMPUTING'S LIABILITY TO LICENSEE FOR ANY OTHER DAMAGES RELATING TO OR ARISING OUT OF THIS AGREEMENT WHETHER IN CONTRACT, TORT, OR OTHERWISE WILL BE LIMITED TO THE AMOUNT RECEIVED BY BELMONT COMPUTING FROM LICENSEE AS COMPENSATION FOR THE SOFTWARE DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRIOR TO THE TIME SUCH CLAIM AROSE. 
+  
+11. CONFIDENTIALITY. Both Parties agree that they shall not disclose Confidential Information of the other Party to any third party, and shall not use such Confidential Information in any manner except as authorized under this Agreement.  The Party receiving Confidential Information from the disclosing Party shall use the same degree of care as it uses to protect its own Confidential Information of like nature, but in no event less than reasonable care, to maintain the confidentiality of the disclosing Party’s Confidential Information.  The Parties recognize and agree that the use or disclosure of any Confidential Information of a Party in a manner inconsistent with the provisions of this Agreement may cause the disclosing Party irreparable damage for which adequate remedy at law will not be available.  Accordingly, each Party shall be entitled to seek temporary and/or permanent injunctive relief against such breach or violation from any court of competent jurisdiction immediately upon request.  The right of each Party to seek injunctive relief shall not limit in any manner their respective rights to seek other and/or additional remedies at law or in equity.  If Confidential Information is required to be disclosed by law or a governmental authority, including pursuant to a subpoena or court order, such Confidential Information may be disclosed, provided that the Party required to disclose the Confidential Information: (a) promptly notifies the disclosing Party of the disclosure requirement; (b) cooperates with the disclosing Party’s reasonable efforts to resist or narrow the disclosure and to obtain an order or other reliable assurance that confidential treatment will be accorded the disclosing Party’s Confidential Information; and (c) furnishes only Confidential Information that the Party is legally compelled to disclose according to advice of its legal counsel.
+  
+12. ARBITRATION. The Parties agree to submit any dispute under this Agreement to binding arbitration under the rules of the American Arbitration Association in the following location: San Mateo, California. Judgment upon the award rendered by the arbitrator may be entered in any court with jurisdiction to do so. 
+  
+13. ATTORNEY FEES. If any legal action is necessary to enforce this Agreement, the prevailing Party shall be entitled to reasonable attorney fees, costs and expenses in addition to any other relief to which it may be entitled. 
+  
+14. GENERAL PROVISIONS. 
+  
+    (a) Complete Agreement: This Agreement together with all schedules referred to in this Agreement, all of which are incorporated herein by reference, constitutes the sole and entire Agreement between the Parties. This Agreement supersedes all prior understandings, agreements, representations and documentation relating to the subject matter of this Agreement. 
+
+    (b) Modifications: Modifications and amendments to this Agreement, including any exhibit, schedule or attachment hereto, shall be enforceable only if in writing and signed by authorized representatives of both Parties. 
+
+    (c) Applicable law: This Agreement will be governed by the laws of the State of California, without regard to any conflicts of laws principles. The Parties agree that the United Nations Convention on Contracts for the International Sale of Goods (1980) is specifically excluded from and shall not apply to this Agreement.  
+
+    (d) Notices: All notices and other communications given in connection with this Agreement shall be in writing and shall be deemed given as follows: 
+
+		- When delivered personally to the recipient's address as appearing in the introductory paragraph to this Agreement; 
+  		- Three days after being deposited in the United States mail, postage prepaid to the recipient's address as appearing in the introductory paragraph to this Agreement; or 
+  		- When sent by fax or telex to the last fax or telex number of the recipient known to the party giving notice. Notice is effective upon receipt provided that a duplicate copy of the notice is promptly given by first-class or certified mail or the recipient delivers a written confirmation of receipt. 
+  
+         Any Party may change its address appearing in the introductory paragraph to this Agreement by given notice of the change in accordance with this paragraph. 
+  
+    (e) No Agency: Nothing contained herein will be construed as creating any agency, partnership, joint venture or other form of joint enterprise between the Parties. 
+
+    (f) Waiver and Severability:  The failure of either Party to enforce at any time any of the provisions of this Agreement, or to exercise any election of options provided herein, shall not constitute a waiver of such provision or option, nor affect the validity of this Agreement or any part thereof, or the right of the waiving Party to thereafter enforce each and every such provision.  If any provision of this Agreement is held invalid or unenforceable, the remainder of the Agreement shall continue in full force and effect.
+
+	(g) Counterparts:  This Agreement may be executed in any number of counterparts, each of which shall be original; but such counterparts shall together constitute by one and the same instrument.
+  
+15. ASSIGNMENT. The rights conferred by this Agreement shall not be assignable by the Licensee without Belmont Computing’s prior written consent. Belmont Computing may impose a reasonable license fee on any such assignment. 
+
+16. EXPORT REGULATIONS. Licensee acknowledges that Software may be subject to United States export laws, statutes and regulations which prohibit the export or diversion of certain products and technology to certain countries, and that Licensee will at all times comply with the provisions of such laws, statutes and regulations including obtaining any necessary or required licenses.  Licensee shall not export, re-export or otherwise transmit, directly or indirectly, the Software to, or use the Software in, any country prohibited or restricted under United States export laws, statutes or regulations or any other applicable laws, and Licensee will defend, indemnify and hold Belmont Computing harmless from and against any violation of all applicable export laws and regulations by Licensee or any of its agents, officers, directors or employees
+  
+17. INTEGRATION. This Agreement constitutes the entire understanding of the Parties, and revokes and supersedes all prior agreements between the Parties and is intended as a final expression of their agreement. It shall not be modified or amended except in writing signed by the Parties hereto and specifically referring to this Agreement. This Agreement shall take precedence over any other documents that may be in conflict therewith.
+
+IN WITNESS WHEREOF, the Parties hereto, intending to be legally bound hereby, have each caused to be affixed hereto its or his/her hand and seal the day indicated.

@@ -1,5 +1,7 @@
+CAPI=2:
 ###############################################################################
 # Copyright (C) May 2022, Belmont Computing, Inc. -- All Rights Reserved
+# Licensed under the BCI-SLA. See LICENSE for details.
 #
 # NOTICE:  All information contained herein is, and remains the property of
 # Belmont Computing, Inc.  The intellectual and technical concepts contained
@@ -9,8 +11,6 @@
 # material is strictly forbidden unless prior written permission is obtained
 # from Belmont Computing, Inc.
 ###############################################################################
-
-CAPI=2:
 
 name: "bci:athos_sw:dif_smoketest:1.0"
 description: "Tests for DIF (device interface) layer."
