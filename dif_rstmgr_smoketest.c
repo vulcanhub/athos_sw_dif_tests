@@ -2,6 +2,9 @@
 // Licensed under the Apache License, Version 2.0, see LICENSE for details.
 // SPDX-License-Identifier: Apache-2.0
 
+// Copyright (C) May 2022, Belmont Computing, Inc. -- All Rights Reserved
+// Licensed under the BCI License. See LICENSE for details.
+
 #include "base/mmio.h"
 #include "dif/dif_rstmgr.h"
 #include "dif/check.h"
