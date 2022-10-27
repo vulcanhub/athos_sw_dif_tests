@@ -86,8 +86,10 @@ bool test_main(void) {
   };
   CHECK(dif_aon_timer_init(params, &aon) == kDifAonTimerOk);
 
-  aon_timer_test_wakeup_timer(&aon);
-  aon_timer_test_watchdog_timer(&aon);
+  for (int i = 0; i < 40; i++) {
+      aon_timer_test_wakeup_timer(&aon);
+      aon_timer_test_watchdog_timer(&aon);
+  };
 
   return true;
 }
